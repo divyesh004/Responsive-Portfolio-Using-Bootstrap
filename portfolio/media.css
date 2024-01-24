@@ -1,0 +1,183 @@
+@media(max-width:575px)
+{
+
+    body
+  {
+    overflow-x: auto;
+  }
+  .contants
+{
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.6)),url('image/hero-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: 0%;
+    position: relative;
+    left: 0%;
+}
+.devoloper
+{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.name1
+{
+    font-size: 35px;
+    color: white;
+}
+.bi-list
+{
+  z-index:99;
+  top: 15px;
+  right:15px;
+}
+.animatedText
+{
+    font-size: 20px;
+    border-bottom: 3px solid #149ddd;
+}
+.im
+{
+    font-size: 25px;
+}
+.prasnal
+{
+  font-size: 10px;
+}
+.content1
+{
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+}
+.content2
+{
+    text-align: center;
+    margin-top: 30px;
+    padding: 11px;
+}
+.content3
+{
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+}
+.content4
+{
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px;
+}
+.icon100
+{
+    font-size: 30px;
+    color: #149ddd;
+}
+.number
+{
+    font-weight: bold;
+    font-size: 30px;
+}
+.wrap
+{
+    font-size: 15px;
+    margin-left: 0px;
+}
+}
+
+
+
+
+
+@media(min-width:576px) and (max-width:767px)
+{
+    body
+    {
+      overflow-x: auto;
+    }
+    .contants
+  {
+      height: 100vh;
+      background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.6)),url('image/hero-bg.jpg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      margin-top: 0%;
+      position: relative;
+      left: 0%;
+  }
+  .devoloper
+  {
+      position: absolute;
+      text-align: center;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+  }
+  .bi-list
+{
+  z-index:99;
+  top: 15px;
+  right:15px;
+}
+  .prasnal
+  {
+    font-size: 10px;
+  }
+}
+
+
+
+
+
+
+@media(min-width:768px) and (max-width:991px)
+{
+
+    body
+  {
+    overflow-x: auto;
+  }
+  .contants
+{
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.6)),url('image/hero-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    margin-top: 0%;
+    position: relative;
+    left: 0%;
+}
+.devoloper
+{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.bi-list
+{
+  z-index:99;
+  top: 15px;
+  right:15px;
+}
+.prasnal
+{
+  font-size: 10px;
+}
+.content1
+{
+    text-align: center;
+    margin-top: 50px;
+    padding: 30px;
+}
+}
